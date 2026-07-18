@@ -24,7 +24,7 @@ pre-commit + gitleaks + trufflehog.
 
 ```yaml
 # .pre-commit-config.yaml
-- repo: https://github.com/moveeeax/secrets-precommit
+- repo: https://github.com/cybercapybara/secrets-precommit
   rev: v1
 ```
 
